@@ -7,7 +7,6 @@
    <ul>
         <li> 💻 Desenvolvedora WEB </li>
         <li> 💙 Atualmente estudando no Instituto PROA</li>
-        <li> 😻 Apaixonada por tecnologia</li>
     </ul>
 
   <h4> Onde me encontrar: <h4/>
