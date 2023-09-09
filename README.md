@@ -24,7 +24,8 @@
 <img width = 60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img width = 60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />        
 <img width = 60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-
+<img width = 60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+          
 
   <hr>
 
