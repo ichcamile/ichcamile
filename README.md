@@ -5,8 +5,10 @@
 
 <h4> Um pouco sobre mim <h4/>
    <ul>
-        <li> 💻 Desenvolvedora WEB </li>
-        <li> 💙 Atualmente estudando no Instituto PROA</li>
+      <li>❤️ Apaixonada por tecnologia e idiomas. </li>
+      <li> 💻 Desenvolvedora WEB </li>
+      <li> 💙 Estudando no Instituto PROA</li>
+      <li> 👩‍💻 Atualmente atuo como Product Owner, desenvolvedora FullStack e Social Media no Projeto <a href ="https://github.com/sejaumbu">🌿UMBU <a/> </li>
     </ul>
 
   <h4> Onde me encontrar: <h4/>
