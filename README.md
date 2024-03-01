@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=8338EC&vCenter=true&random=false&width=600&height=55&separator=%3C&lines=console.log(%22Hello+World%22);%3Cprint(%22I'm+Camile+Santana%22);)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=8338EC&vCenter=true&random=false&width=600&height=55&separator=%3C&lines=console.log(%22Hello+World%22);%3Cprint(%22I'm+Camile+Santana%22))](https://git.io/typing-svg)
 ##
 
 👋 Hello there! I'm Camile Santana, a Web Developer based in São Paulo. I'm currently enrolled in the Analysis and Systems Development course at UNIFECAF, where I'm expanding my skills and knowledge in the field. Additionally, I work as a VMO (Value Management Office) at MIGNOW. With a strong passion for technology and languages, I'm dedicated to staying up-to-date with the latest advancements and contributing to the tech industry.
