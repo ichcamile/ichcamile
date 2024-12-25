@@ -3,7 +3,7 @@
 
 👋 Hello there! I'm Camile, a Product Intern at Itaú Unibanco and an IT Management student, passionate about leveraging technology and data to enhance decision-making and create impactful solutions.
 
-📚 Currently pursuing a degree in IT Management, my academic journey covers diverse topics such as Agile Methods, Database Modeling & SQL, Cybersecurity, Data Science Fundamentals, Machine Learning & Deep Learning, and IT Governance. This program provides a solid foundation in data analysis, software engineering, and business strategies. I'm exploring everything from fundamental data visualization techniques to advanced topics like Explainable AI (XAI), Cloud Computing for Data Science, and Risk and Compliance Policies in IT, preparing me for complex technological environments.
+📚 **Currently pursuing a degree in IT Management**, I’m studying topics like **Agile Methods**, **Database Modeling**, **Cybersecurity**, and **Machine Learning**, building a strong foundation in **data analysis**, **software engineering**, and **IT governance**. The program prepares me for advanced challenges, including **Explainable AI (XAI)** and **Cloud Computing**, in dynamic tech environments.
 
 💼 At Itaú Unibanco, I work with product management, focusing on creating solutions to optimize results and enhance customer experience. As part of my responsibilities, I generate data sets that support result analysis, delivering valuable insights for decision-making. This role allows me to develop analytical skills and collaborate with cross-functional teams to continuously improve products.
 
