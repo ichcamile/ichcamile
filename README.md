@@ -1,11 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=8338EC&vCenter=true&random=false&width=600&height=55&separator=%3C&lines=console.log(%22Hello+World%22);%3Cprint(%22I'm+Camile+Santana%22))](https://git.io/typing-svg)
 ##
 
-👋 Hello there! I'm Camile Santana, a Web Developer based in São Paulo. I'm currently enrolled in the Analysis and Systems Development course at UNIFECAF, where I'm expanding my skills and knowledge in the field. Additionally, I work as a Sales Trainee at MIGNOW. With a strong passion for technology and languages, I'm dedicated to staying up-to-date with the latest advancements and contributing to the tech industry.
+👋 Hello there! I'm Camile, a Product Intern at Itaú Unibanco and an IT Management student, passionate about leveraging technology and data to enhance decision-making and create impactful solutions.
 
-💡 Constantly seeking opportunities for growth, I actively participate in the Instituto PROA community to collaborate with like-minded individuals and contribute to projects that make a positive impact.
+📚 Currently pursuing a degree in IT Management, my academic journey covers diverse topics such as Agile Methods, Database Modeling & SQL, Cybersecurity, Data Science Fundamentals, Machine Learning & Deep Learning, and IT Governance. This program provides a solid foundation in data analysis, software engineering, and business strategies. I'm exploring everything from fundamental data visualization techniques to advanced topics like Explainable AI (XAI), Cloud Computing for Data Science, and Risk and Compliance Policies in IT, preparing me for complex technological environments.
 
-🌐 When I'm not coding, you can find me exploring my interests in technology and languages. I believe in maintaining a healthy work-life balance to stay refreshed and bring a creative mindset to my projects.
+💼 At Itaú Unibanco, I work with product management, focusing on creating solutions to optimize results and enhance customer experience. As part of my responsibilities, I generate data sets that support result analysis, delivering valuable insights for decision-making. This role allows me to develop analytical skills and collaborate with cross-functional teams to continuously improve products.
+
+💡 Always eager to learn and grow, I am committed to staying updated on the latest technology trends and applying this knowledge to projects that deliver real impact and strategic value.
+
+🌐 When I’m not working or studying, I enjoy exploring new technologies, diving deeper into AI and data science, or relaxing with readings about innovation and digital transformation.
 
 ## Let's connect! 📫 
 <a href="https://instagram.com/voidmile" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
