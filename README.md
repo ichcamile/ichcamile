@@ -18,7 +18,7 @@
       </div>
 
 ## Technologies ⚙️  
-<img src="https://skillicons.dev/icons?i=git,html,css,sass,js,react,java,python,mysql," />
+<img src="https://skillicons.dev/icons?i=git,html,css,sass,js,react,java,python,mysql,rust" />
 
 ##
 
